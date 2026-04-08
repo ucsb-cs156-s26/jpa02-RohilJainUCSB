@@ -33,16 +33,15 @@ public class Developer {
      * Get the developers team
      * @return developers team as a Java object
      */
-    
+
     public static Team getTeam() {
-        // TODO: Change this to your team name
-        Team team = new Team("s26-xx");
-        team.addMember("Alice");
-        team.addMember("Bob");
-        team.addMember("Chris G.");
-        team.addMember("Danny");
-        team.addMember("Eve");
-        team.addMember("Frances");
+        Team team = new Team("s26-16");
+        team.addMember("Rohil");
+        team.addMember("Ivy");
+        team.addMember("John S.");
+        team.addMember("Sharanya");
+        team.addMember("Nikita");
+        team.addMember("Jack");
         return team;
     }
 }
