@@ -35,6 +35,9 @@ public class TeamTest {
 	assertEquals(false, team.equals(team2));
 	Team team3 = new Team("team-test");
 	assertEquals(false, team.equals(team3));
+
+	assertEquals(true, team.equals(team));
+	assertEquals(false, team.equals(5));
     }
     @Test
     public void hash_returns_correct_value()
