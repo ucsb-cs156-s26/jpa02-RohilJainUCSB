@@ -4,7 +4,7 @@
 Repo: https://github.com/ucsb-cs156-s26/jpa02-RohilJainUCSB
 
 
-Deployed at: https://jpa02-rohiljainucsb.dokku-16.cs.ucsb.edu/info
+Deployed at: https://jpa02-rohiljainucsb.dokku-16.cs.ucsb.edu
 
 
 # About this repo
